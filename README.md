@@ -1,3 +1,3 @@
 # HSE
 
-Final python project is is *python* folder
+Final python project is in *python* folder
